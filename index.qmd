@@ -1,0 +1,5 @@
+---
+title: "Scientific Writing"
+---
+
+In this website we have the material for the course on Scientific Writing covering the basics of LaTeX for research students.
