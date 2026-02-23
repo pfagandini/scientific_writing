@@ -2,4 +2,17 @@
 title: "Material"
 ---
 
-About this site
+## Slides
+
+1. [Foundations](slides/LaTeX_01.pdf)
+2. [Layout and Visuals](slides/LaTeX_02.pdf)
+3. [Graphics](slides/LaTeX_03.pdf)
+4. [Special Classes](slides/LaTeX_04.pdf)
+
+## Material
+
+1. [Foundations](supplementary_material/Foundations.zip)
+2. [Layout](supplementary_material/Layout_Visuals.zip)
+3. [Graphics](supplementary_material/Graphics.zip)
+4. [Exam](supplementary_material/Exam.zip)
+5. [Exam](supplementary_material/Beamer.zip)
